@@ -1,3 +1,3 @@
-# EnvEast short course "Geoscientist's guide to Python"
+# Website for EnvEast short course on Python
 
-WIP...
+https://ueapy.github.io/enveast_python_course
