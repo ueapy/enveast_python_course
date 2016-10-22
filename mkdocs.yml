@@ -1,2 +1,7 @@
 site_name: EnvEast Python Course
 theme: bootstrap
+
+site_url: https://ueapy.github.io/enveast_python_course
+repo_url: https://github.com/ueapy/enveast_python_course
+site_author: Denis Sergeev
+site_favicon: favicon.png
