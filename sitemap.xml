@@ -4,7 +4,31 @@
     
     <url>
      <loc>https://ueapy.github.io/enveast_python_course/</loc>
-     <lastmod>2016-10-22</lastmod>
+     <lastmod>2016-10-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://ueapy.github.io/enveast_python_course/programme/</loc>
+     <lastmod>2016-10-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://ueapy.github.io/enveast_python_course/installation/</loc>
+     <lastmod>2016-10-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://ueapy.github.io/enveast_python_course/resources/</loc>
+     <lastmod>2016-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
