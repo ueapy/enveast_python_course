@@ -1,33 +1,41 @@
-Python Course skeleton 
+# Programme
+## Day 1 (2016-11-21 Mon)
+| Topic                     | Type     | Start | End   | Duration | Location  |
+|---------------------------|----------|-------|-------|----------|-----------|
+| *Icebreaker coffee        | Break    | 10:00 | 10:15 | 00:15    | ????????* |
+| Introduction to Python    | Lecture  | 10:15 | 10:30 | 00:15    | ARTS 1.02 |
+| How to run Python code    | Lecture  | 10:30 | 10:45 | 00:15    | ARTS 1.02 |
+| Python variable types     | Lecture  | 10:45 | 11:30 | 00:45    | ARTS 1.02 |
+| Try what you learned      | Exercise | 11:30 | 12:00 | 00:30    | ARTS 1.02 |
+| *Lunch                    | Break    | 12:00 | 12:45 | 00:45    | ????????* |
+| Jupyter Notebook          | Lecture  | 12:45 | 13:30 | 00:45    | ARTS 1.02 |
+| Control flow statements   | Lecture  | 13:30 | 14:15 | 00:45    | ARTS 1.02 |
+| Defining functions        | Lecture  | 14:15 | 15:00 | 00:45    | ARTS 1.02 |
+| *Coffee*                  | Break    | 15:00 | 15:30 | 00:30    | ????????? |
+| Build a simple program    | Exercise | 15:30 | 16:30 | 01:00    | ARTS 1.02 |
+| Modularity and packages   | Lecture  | 16:30 | 17:00 | 00:30    | ARTS 1.02 |
+| Build another program     | Exercise | 17:00 | 18:00 | 01:00    | ARTS 1.02 |
 
-Day1 
-10:00 - 10:15 		Icebreakers Coffee
-10:15 - 12:00 		Introduction to python, 
-			Python distributions
-			Environment
-			Using Python - simple workings. 
+## Day 2 (2016-11-23 Wed)
+| Topic                     | Type     | Start | End   | Duration | Location   |
+|---------------------------|----------|-------|-------|----------|------------|
+| *Coffee                   | Break    | 10:50 | 11:00 | 00:10    | ????????*  |
+| Introduction to numpy     | Lecture  | 11:00 | 11:30 | 00:30    | ITCS 01.26 |
+| Numpy hands-on session    | Exercise | 11:30 | 12:30 | 01:00    | ITCS 01.26 |
+| *Lunch                    | Break    | 12:30 | 13:15 | 00:45    | ?????????* |
+| Intro to matplotlib       | Exercise | 13:15 | 14:15 | 01:00    | ITCS 01.26 |
+| Intro to scipy            | Exercise | 14:15 | 15:00 | 00:45    | ITCS 01.26 |
+| *Coffee                   | Break    | 15:00 | 15:30 | 00:30    | ?????????* |
+| Introduction to pandas    | Lecture  | 15:30 | 16:00 | 00:30    | ITCS 01.26 |
+| Data analysis in pandas   | Exercise | 16:00 | 18:00 | 02:00    | ITCS 01.26 |
 
-12:00 - 12:45 		Lunch
-
-12:45 - 15:00 		Jupyter Notebook and alternate use of Python
-15:00 - 15:30 		Coffee
-15:30 - 18:00 		Flow control, input/output and modularity
-
-
-Day2
-10:50 - 11:00 		Coffee
-11:00 - 12:30 		Introduction to Numpy
-
-12:30 - 13:15		Lunch
-
-13:15 - 15:00 		Plotting Matplotlib, scipy
-15:00 - 15:30 		Coffee
-15:30 - 18:00 		Pandas
-
-
-Day3
-12:00 - 12:45 		Mapping and cartopy
-12:45 - 13:00 		Coffee / Quick lunch 
-13:00 - 15:00 		xarray with NetCDF files and Shapely
-15:00 - 15:30		Coffee
-15:30 - 18:00 		Final exericse drawing all learnt aspects together. 
+## Day 3 (2016-11-25 Fri)
+| Topic                     | Type     | Start | End   | Duration | Location   |
+|---------------------------|----------|-------|-------|----------|------------|
+| Plotting data on map      | Lecture  | 12:00 | 12:15 | 00:15    | ITCS 01.26 | 
+| Basemap and cartopy       | Exercise | 12:15 | 12:45 | 00:30    | ITCS 01.26 |
+| *Coffee / Quick lunch     | Break    | 12:45 | 13:00 | 00:15    | ?????????* |
+| Working with netCDF data  | Exercise | 13:00 | 14:30 | 01:30    | ITCS 01.26 |
+| Working with shapefiles   | Exercise | 14:30 | 15:00 | 00:30    | ITCS 01.26 |
+| *Coffee                   | Break    | 15:00 | 15:30 | 00:30    | ?????????* |
+| Final micro-project       | Exercise | 15:30 | 18:00 | 02:30    | ITCS 01.26 |
