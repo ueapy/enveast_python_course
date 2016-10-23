@@ -6,6 +6,7 @@ repo_url: https://github.com/ueapy/enveast_python_course
 site_author: Denis Sergeev
 site_favicon: favicon.png
 docs_dir: src
+site_dir: _site
 
 pages:
   - Home: index.md
