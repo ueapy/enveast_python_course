@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>https://ueapy.github.io/enveast_python_course/</loc>
+     <loc>https://ueapy.github.io/enveast_python_course/home/</loc>
      <lastmod>2016-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -28,6 +28,14 @@
     
     <url>
      <loc>https://ueapy.github.io/enveast_python_course/resources/</loc>
+     <lastmod>2016-10-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://ueapy.github.io/enveast_python_course/motivation/</loc>
      <lastmod>2016-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url>

@@ -1,24 +1,39 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "location": "/home/",
+            "text": "EnvEast Python Training Workshop\n\n\nIntroduction to Python programming language for Environmental Scientists\n\n\nWhat?\n\n\nThe 3-day workshop will give a hands-on introduction to Python programming language. It will focus on the basics of the analysis and visualisation of the data commonly used in Environmental Sciences.\n\n\nWhen?\n\n\n21st, 23rd and 25th November 2016\n\n\nWhere?\n\n\n\n\nrooms ITCS 01.26 and ARTS 1.02\n\n\nUniversity of East Anglia\n\n\n\n\nTentative workshop schedule\n\n\nInstructors:\n\n\n\n\nDenis\n\n\nMatt\n\n\nTiago",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/home/#enveast-python-training-workshop",
+            "text": "Introduction to Python programming language for Environmental Scientists",
+            "title": "EnvEast Python Training Workshop"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/home/#what",
+            "text": "The 3-day workshop will give a hands-on introduction to Python programming language. It will focus on the basics of the analysis and visualisation of the data commonly used in Environmental Sciences.",
+            "title": "What?"
         },
         {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/home/#when",
+            "text": "21st, 23rd and 25th November 2016",
+            "title": "When?"
+        },
+        {
+            "location": "/home/#where",
+            "text": "rooms ITCS 01.26 and ARTS 1.02  University of East Anglia",
+            "title": "Where?"
+        },
+        {
+            "location": "/home/#tentative-workshop-schedule",
+            "text": "",
+            "title": "Tentative workshop schedule"
+        },
+        {
+            "location": "/home/#instructors",
+            "text": "Denis  Matt  Tiago",
+            "title": "Instructors:"
         },
         {
             "location": "/programme/",
@@ -34,6 +49,16 @@
             "location": "/resources/",
             "text": "",
             "title": "Resources"
+        },
+        {
+            "location": "/motivation/",
+            "text": "Why should you be bothered to take this course?\n\n\n\n\n\n\nPython is a modern, interpreted, object-oriented, open-source language with a large community support. Python language is a robust integration platform for Environmental Sciences work, from data analysis to distributed computing, and graphical user interfaces to geographical information systems. Among its salient features, Python has a concise but natural syntax for both arrays and non-arrays, making programs exceedingly clear and easy to read.\n\n\n\n\n\n\nThe Environmental Sciences community has begun to recognize the unique benefits of Python, and as a result its population of users is growing, while Python libraries are becoming the industry standard. Institutional support includes groups at the Met Office, the British Atmospheric Data Centre, Cefas, the National Centre for Atmospheric Science, the European Centre for Medium-Range Weather Forecasts, and EUMETSAT.\n\n\n\n\n\n\nAdopting Python as the main computing tool encourages better coding practices, efficient data analysis and open-access research, helping scientific community reduce the so-called reproducibility crisis.\n\n\n\n\n\n\nThe course aims to encourage the academic world to move away from proprietary software such as MATLAB or IDL, which costs institutions significant amount of money.",
+            "title": "Motivation"
+        },
+        {
+            "location": "/motivation/#why-should-you-be-bothered-to-take-this-course",
+            "text": "Python is a modern, interpreted, object-oriented, open-source language with a large community support. Python language is a robust integration platform for Environmental Sciences work, from data analysis to distributed computing, and graphical user interfaces to geographical information systems. Among its salient features, Python has a concise but natural syntax for both arrays and non-arrays, making programs exceedingly clear and easy to read.    The Environmental Sciences community has begun to recognize the unique benefits of Python, and as a result its population of users is growing, while Python libraries are becoming the industry standard. Institutional support includes groups at the Met Office, the British Atmospheric Data Centre, Cefas, the National Centre for Atmospheric Science, the European Centre for Medium-Range Weather Forecasts, and EUMETSAT.    Adopting Python as the main computing tool encourages better coding practices, efficient data analysis and open-access research, helping scientific community reduce the so-called reproducibility crisis.    The course aims to encourage the academic world to move away from proprietary software such as MATLAB or IDL, which costs institutions significant amount of money.",
+            "title": "Why should you be bothered to take this course?"
         }
     ]
 }
