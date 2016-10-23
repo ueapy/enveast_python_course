@@ -9,7 +9,8 @@ docs_dir: src
 site_dir: _site
 
 pages:
-  - Home: index.md
+  - Home: home.md
   - Programme: programme.md
   - Installation: installation.md
   - Resources: resources.md
+  - Motivation: motivation.md
