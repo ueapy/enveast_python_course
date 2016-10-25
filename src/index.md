@@ -29,10 +29,10 @@ rooms **ITCS 01.26** and **ARTS 1.02**, University of East Anglia
 
 [More...](programme.md)
 
-## Instructors
-* [Denis](mailto:d.sergeev@uea.ac.uk)
-* [Matt](mailto:m.bone@uea.ac.uk)
-* [Tiago](mailto:tiago.silva@cefas.co.uk)
+## Registration and enquiries
+* Denis, [d.sergeev@uea.ac.uk](mailto:d.sergeev@uea.ac.uk)
+* Matt, [m.bone@uea.ac.uk](mailto:m.bone@uea.ac.uk)
+* Tiago, [tiago.silva@cefas.co.uk](mailto:tiago.silva@cefas.co.uk)
 
 <center>
 <a href="http://www.uea.ac.uk"><img src="poster/uealogo.png" title="University of East Anglia" style="height:75px;" hspace="20"></a>
