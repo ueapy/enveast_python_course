@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Introduction to Python in Environmental Sciences\n\n\nEnvEast & Cefas workshop\n\n\nWhat?\n\n\n\n\nThe 3-day workshop organised by \nEnvEast DTP\n and \nCefas\n will give a hands-on introduction to \nPython\n programming language.\n\n\nIt will focus on the basics of the analysis and visualisation of the data commonly used in environmental sciences.\n\n\nNo previous Python experience is required!\n\n\n\n\nDownload poster in PDF\n\n\nWhen?\n\n\n21st, 23rd and 25th November 2016\n\n\nWhere?\n\n\nrooms \nITCS 01.26\n and \nARTS 1.02\n, University of East Anglia\n\n\nHow much?\n\n\n\n\nEnvEast DTP students: \nfree\n\n\nOther participants: \u00a360\n1\n\n\n\n\n1\nThe cost includes lunch on Monday and Wednesday, as well as coffee & biscuits throughout.\n\n\nTopics\n\n\n\n\nPython basics and programming environment\n\n\nCore scientific libraries: numpy, scipy, pandas\n\n\nSimple visualisation in matplotlib\n\n\nPlotting data on maps\n\n\nWorking with environmental sciences data formats\n\n\n\n\nMore...\n\n\nInstructors\n\n\n\n\nDenis\n\n\nMatt\n\n\nTiago",
+            "text": "Introduction to Python in Environmental Sciences\n\n\nEnvEast & Cefas workshop\n\n\nWhat?\n\n\n\n\nThe 3-day workshop organised by \nEnvEast DTP\n and \nCefas\n will give a hands-on introduction to \nPython\n programming language.\n\n\nIt will focus on the basics of the analysis and visualisation of the data commonly used in environmental sciences.\n\n\nNo previous Python experience is required!\n\n\n\n\nDownload poster in PDF\n\n\nWhen?\n\n\n21st, 23rd and 25th November 2016\n\n\nWhere?\n\n\nrooms \nITCS 01.26\n and \nARTS 1.02\n, University of East Anglia\n\n\nHow much?\n\n\n\n\nEnvEast DTP students: \nfree\n\n\nOther participants: \u00a360\n1\n\n\n\n\n1\nThe cost includes lunch on Monday and Wednesday, as well as coffee & biscuits throughout.\n\n\nTopics\n\n\n\n\nPython basics and programming environment\n\n\nCore scientific libraries: numpy, scipy, pandas\n\n\nSimple visualisation in matplotlib\n\n\nPlotting data on maps\n\n\nWorking with environmental sciences data formats\n\n\n\n\nMore...\n\n\nRegistration and enquiries\n\n\n\n\nDenis, \nd.sergeev@uea.ac.uk\n\n\nMatt, \nm.bone@uea.ac.uk\n\n\nTiago, \ntiago.silva@cefas.co.uk",
             "title": "Home"
         },
         {
@@ -36,9 +36,9 @@
             "title": "Topics"
         },
         {
-            "location": "/#instructors",
-            "text": "Denis  Matt  Tiago",
-            "title": "Instructors"
+            "location": "/#registration-and-enquiries",
+            "text": "Denis,  d.sergeev@uea.ac.uk  Matt,  m.bone@uea.ac.uk  Tiago,  tiago.silva@cefas.co.uk",
+            "title": "Registration and enquiries"
         },
         {
             "location": "/programme/",
