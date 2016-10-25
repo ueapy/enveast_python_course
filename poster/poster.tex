@@ -1,6 +1,19 @@
-\documentclass[paper=a4, fontsize=12pt, numbers=endperiod]{scrartcl}
-\usepackage[english]{babel}  % English language/hyphenation
+\documentclass[paper=a4]{scrartcl}
+\usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
+
+%%% Geometry
+\usepackage[left=2cm,
+            right=2cm,
+            top=0.5cm,
+            bottom=1cm,
+            headheight=1cm
+           ]{geometry}
+
+%%% Fonts
+\usepackage{scrextend}
+\changefontsizes{14pt}
+\renewcommand{\familydefault}{\sfdefault}
 
 %%% Figures
 \usepackage{graphicx}
@@ -10,57 +23,63 @@
 \usepackage{hyperref}
 \usepackage{xcolor}
 \definecolor{ueacyan}{HTML}{019DDA}
-\hypersetup{colorlinks,breaklinks, linkcolor=ueacyan, urlcolor=ueacyan, citecolor=ueacyan}
+\hypersetup{colorlinks, breaklinks, linkcolor=ueacyan, urlcolor=ueacyan}
 
 %%% Fancy items
-\newcommand*{\pyitem}{\item [{\includegraphics[width=0.5cm]{python_black.png}}]}
-
+\newcommand*{\pyitem}{\item [{\includegraphics[width=0.4cm]{python_logo.png}}]}
 
 \begin{document}
+\pagestyle{empty} % No page numbers
+
 \begin{center}
-\begin{minipage}{0.33\linewidth}
+\begin{minipage}{0.2\linewidth}
     \includegraphics[width=\linewidth]{python_logo.png}
-    \vspace{1cm}
+    \vspace{0.5cm}
 \end{minipage}
 
-\Huge Introduction to Python \\ in \\ Environmental Sciences
+\Huge \textbf{Introduction to Python in \\ Environmental Sciences}
 
 \end{center}
 
-
-
-
-
 \begin{itemize}
-\pyitem The 3-day workshop will give a hands-on introduction to Python programming language.
-\pyitem It will focus on the basics of the analysis and visualisation of the data commonly used in environmental sciences.
+\pyitem The 3-day workshop will give a hands-on introduction to Python --- modern open-source programming language with a large community support.
+\pyitem It will focus on the analysis and visualisation of the data commonly used in environmental sciences.
 \pyitem \textbf{No previous Python experience is required!}
 \end{itemize}
 
 
-%## When?
-%21st, 23rd and 25th November 2016
-%
-%## Where?
-%rooms **ITCS 01.26** and **ARTS 1.02**, University of East Anglia
-%
-%## How much?
-%* EnvEast DTP students: **free**
-%* Other participants: £60<sup>[1](#foot1)</sup>
-%
-%## Topics
-%* Python basics and programming environment
-%* Core scientific libraries: numpy and scipy
-%* Simple visualisation in matplotlib
-%* Plotting data on maps
-%* Working with environmental sciences data formats 
-%
+\subsection*{When?}
+\begin{center}
+\begin{tabular}{lll}
+21 Nov 2016 & Monday & 09:40--18:00 \\
+23 Nov 2016 & Wednesday & 10:40--18:00 \\
+25 Nov 2016 & Friday & 12:00--18:00 \\
+\end{tabular}
+\end{center}
+
+
+\subsection*{How much?}
+\begin{itemize}
+\pyitem EnvEast DTP students: \textbf{FREE}
+\pyitem Other participants: \pounds 60
+\end{itemize}
+\vspace{-0.5cm}
+\scriptsize The cost includes lunch on Monday and Wednesday, as well as coffee \& biscuits throughout. \normalsize
+
+\subsection*{What?}
+\begin{itemize}
+\pyitem Python basics and programming environment
+\pyitem Core scientific libraries: numpy, scipy, pandas
+\pyitem Simple visualisation in matplotlib
+\pyitem Plotting data on maps
+\pyitem Working with environmental sciences data formats 
+\end{itemize}
+
+
 %## Instructors:
 %* [Denis](mailto:d.sergeev@uea.ac.uk)
 %* [Matt](mailto:m.bone@uea.ac.uk)
 %* [Tiago](mailto:tiago.silva@cefas.co.uk)
-%
-%<a name="foot1"><sup>1</sup></a>The cost includes lunch on Monday and Wednesday, as well as coffee & biscuits throughout.
 
 \begin{center}
 \begin{minipage}{0.2\linewidth}
