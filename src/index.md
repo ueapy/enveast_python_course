@@ -6,6 +6,8 @@
 * It will focus on the basics of the analysis and visualisation of the data commonly used in environmental sciences.
 * **No previous Python experience is required!**
 
+*[Download poster in PDF](poster/poster.pdf)*
+
 ## When?
 21st, 23rd and 25th November 2016
 
@@ -23,16 +25,17 @@ rooms **ITCS 01.26** and **ARTS 1.02**, University of East Anglia
 * Core scientific libraries: numpy, scipy, pandas
 * Simple visualisation in matplotlib
 * Plotting data on maps
-* Working with environmental sciences data formats 
+* Working with environmental sciences data formats
 
-## Instructors:
+[More...](programme.md)
+
+## Instructors
 * [Denis](mailto:d.sergeev@uea.ac.uk)
 * [Matt](mailto:m.bone@uea.ac.uk)
 * [Tiago](mailto:tiago.silva@cefas.co.uk)
 
 <center>
-<a href="http://www.uea.ac.uk"><img src="{filename}/poster/python_logo.png" title="Python" style="height:75px;"></a>
-<a href="http://www.uea.ac.uk"><img src="{filename}/poster/python_logo.png" title="Python" style="height:75px;"></a>
+<a href="http://www.uea.ac.uk"><img src="poster/uealogo.png" title="University of East Anglia" style="height:75px;" hspace="20"></a>
+<a href="http://www.enveast.ac.uk"><img src="poster/enveast_logo.png" title="EnvEast DTP" style="height:75px;" hspace="20"></a>
+<a href="http://www.cefas.co.uk"><img src="poster/cefas_logo.png" title="Cefas" style="height:75px;" hspace="20"></a>
 </center>
-
-**[Download poster in PDF]({filename}/poster/poster.pdf)**
