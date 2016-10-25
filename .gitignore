@@ -10,6 +10,7 @@ _site/
 *.out
 *.aux
 *.log
+*-eps-converted-to.pdf
 
 ######################
 # OS generated files #
