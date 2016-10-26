@@ -2,7 +2,7 @@
 ## Day 1 (2016-11-21 Mon)
 | Topic                     | Type     | Start | End   | Duration | Location  |
 |---------------------------|----------|-------|-------|----------|-----------|
-| *Icebreaker coffee*       | Break    | 09:40 | 10:00 | 00:20    |           |
+| *Icebreaker coffee*       | Break    | 09:30 | 10:00 | 00:20    |           |
 | Introduction to Python    | Lecture  | 10:00 | 10:20 | 00:20    | ARTS 1.02 |
 | How to run Python code    | Lecture  | 10:20 | 10:45 | 00:25    | ARTS 1.02 |
 | Python variable types     | Lecture  | 10:45 | 11:30 | 00:45    | ARTS 1.02 |
@@ -19,7 +19,7 @@
 ## Day 2 (2016-11-23 Wed)
 | Topic                     | Type     | Start | End   | Duration | Location   |
 |---------------------------|----------|-------|-------|----------|------------|
-| *Coffee*                  | Break    | 10:40 | 11:00 | 00:20    |            |
+| *Coffee*                  | Break    | 10:30 | 11:00 | 00:20    |            |
 | Introduction to numpy     | Lecture  | 11:00 | 11:30 | 00:30    | ITCS 01.26 |
 | Numpy hands-on session    | Exercise | 11:30 | 12:30 | 01:00    | ITCS 01.26 |
 | *Lunch*                   | Break    | 12:30 | 13:15 | 00:45    |            |
