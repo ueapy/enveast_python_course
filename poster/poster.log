@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.10.7)  25 OCT 2016 18:05
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.10.7)  26 OCT 2016 10:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -642,7 +642,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <16.79996> not available
 (Font)              size <17.28> substituted on input line 54.
 
 
-Overfull \hbox (7.53732pt too wide) in paragraph at lines 56--61
+Overfull \hbox (9.59901pt too wide) in paragraph at lines 56--61
  [] 
  []
 
