@@ -4,7 +4,8 @@
 |---------------------------|----------|-------|-------|----------|-----------|
 | *Icebreaker coffee*       | Break    | 09:30 | 10:00 | 00:20    |           |
 | Introduction to Python    | Lecture  | 10:00 | 10:20 | 00:20    | ARTS 1.02 |
-| How to run Python code    | Lecture  | 10:20 | 10:45 | 00:25    | ARTS 1.02 |
+| How to run Python code    | Lecture  | 10:20 | 10:35 | 00:15    | ARTS 1.02 |
+| Python syntax             | Lecture  | 10:35 | 10:45 | 00:10    | ARTS 1.02 |
 | Python variable types     | Lecture  | 10:45 | 11:30 | 00:45    | ARTS 1.02 |
 | Try what you learned      | Exercise | 11:30 | 12:00 | 00:30    | ARTS 1.02 |
 | *Lunch*                   | Break    | 12:00 | 12:45 | 00:45    |           |
