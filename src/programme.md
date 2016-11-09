@@ -39,4 +39,5 @@
 | Working with netCDF data  | Exercise | 13:00 | 14:30 | 01:30    | ITCS 01.26 |
 | Working with shapefiles   | Exercise | 14:30 | 15:00 | 00:30    | ITCS 01.26 |
 | *Coffee*                  | Break    | 15:00 | 15:30 | 00:30    |            |
-| Final micro-project       | Exercise | 15:30 | 18:00 | 02:30    | ITCS 01.26 |
+| Final micro-project       | Exercise | 15:30 | 18:00 | 02:00    | ITCS 01.26 |
+| Closing session           | Lecture  | 17:30 | 18:00 | 00:30    | ITCS 01.26 |
