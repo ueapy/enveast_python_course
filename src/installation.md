@@ -38,7 +38,7 @@ source deactivate
 ```
 
 ### Windows
-* Download the configuration file named [`environment.yml`](https://github.com/ueapy/enveast_python_course_materials/blob/master/environment.yml).
+* Download the configuration file named [`environment.yml`](https://raw.githubusercontent.com/ueapy/enveast_python_course_materials/master/environment.yml).
 * In the command line, check that the file is in the current directory and then type
 ```
 conda env create -f environment.yml
@@ -55,4 +55,4 @@ deactivate
 ```
 
 ## Cloud service
-It is also possible to run this course using a temporary session on [binder](mybinder.org).
+It is also possible to run this course using a temporary session on [binder](mybinder.org): [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/enveast_python_course_materials)
