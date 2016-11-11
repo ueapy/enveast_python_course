@@ -10,9 +10,9 @@ Note: **the course is designed in Python 3.5**
 
 The best way to set up Python for this course is with [conda](http://conda.pydata.org/docs/).
 
-1. Install [Anaconda](https://www.continuum.io/downloads) or, its lighter version, [Miniconda](http://conda.pydata.org/miniconda.html). Use Python 3.5 version! [Determine if your OS is 32-bit or 64-bit](http://www.computerhope.com/issues/ch001121.htm)
+1. Install [Anaconda](https://www.continuum.io/downloads). Use Python 3.5 version! [Determine if your OS is 32-bit or 64-bit](http://www.computerhope.com/issues/ch001121.htm)
 
-2. Once Anaconda/Miniconda distribution is installed, open a command line (Terminal.app on OSX or cmd.exe on Windows) and run the following instructions.
+2. Once Anaconda distribution is installed, open a command line (Terminal.app on OSX or Anaconda prompt on Windows) and run the following instructions.
 
 ### Unix / OSX
 ```
@@ -38,21 +38,17 @@ source deactivate
 ```
 
 ### Windows
-* Download the configuration file named [`environment.yml`](https://raw.githubusercontent.com/ueapy/enveast_python_course_materials/master/environment.yml).
-* In the command line, check that the file is in the current directory and then type
+* Open Anaconda prompt
+* Type
 ```
-conda env create -f environment.yml
+conda install xarray --yes
 ```
-To activate or switch to your new conda environment, you should *activate* it from a command line:
+and hit Enter. Then repeat with
 ```
-activate course2016
+conda install -c conda-forge iris matplotlib basemap --yes
 ```
-Note that a prefix should appear in the command line.
+* Now you are ready to launch Jupyter Notebook from the prompt line or Anaconda navigator app.
 
-To switch and/or deactivate environments:
-```
-deactivate
-```
 
 ## Cloud service
 It is also possible to run this course using a temporary session on [binder](mybinder.org): [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/enveast_python_course_materials)
