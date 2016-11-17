@@ -11,6 +11,7 @@ site_dir: _site
 pages:
   - Home: index.md
   - Programme: programme.md
+  - Content: content.md
   - Installation: installation.md
   - Resources: resources.md
   - Motivation: motivation.md
