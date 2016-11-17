@@ -23,7 +23,7 @@
 | *Coffee*                  | Break    | 10:30 | 11:00 | 00:20    | ITCS 01.26      |
 | Introduction to numpy     | Lecture  | 11:00 | 11:30 | 00:30    | ITCS 01.26      |
 | Numpy hands-on session    | Exercise | 11:30 | 12:30 | 01:00    | ITCS 01.26      |
-| *Lunch*                   | Break    | 12:30 | 13:15 | 00:45    | ARTS (TBC)      |
+| *Lunch*                   | Break    | 12:30 | 13:15 | 00:45    | ARTS 2.03       |
 | Intro to matplotlib       | Exercise | 13:15 | 14:15 | 01:00    | ITCS 01.26      |
 | Intro to scipy            | Exercise | 14:15 | 15:00 | 00:45    | ITCS 01.26      |
 | *Coffee*                  | Break    | 15:00 | 15:30 | 00:30    | ITCS 01.26      |
