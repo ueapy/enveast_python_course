@@ -67,7 +67,7 @@
         },
         {
             "location": "/content/",
-            "text": "Course content\n\n\nGetting started\n\n\n\n\nYou can view the course content on \nnbviewer\n to get a feel for what's in the workshop.\n\n\nIf you want to go through the course material on your own PC, see the \ninstallation instructions\n for information on how to set up a Python environment with the appropriate packages.\n\n\nYou can also run Python exercises using a temporary session on \nbinder\n: \n. It will let you test out the Python notebooks without downloading anything to your local machine.\n\n\n\n\nDocumentation\n\n\nBelow is the documentation for packages used in the course:\n\n \njupyter\n\n\n \nnumpy\n\n\n \nmatplotlib\n\n\n \nscipy\n\n\n \npandas\n\n\n \nbasemap\n\n\n \ncartopy\n\n\n \nxarray\n\n* \nshapely",
+            "text": "Course content\n\n\nGetting started\n\n\n\n\nYou can view the course content on \nnbviewer\n to get a feel for what's in the workshop.\n\n\nIf you want to go through the course material on your own PC, see the \ninstallation instructions\n for information on how to set up a Python environment with the appropriate packages.\n\n\nYou can also run Python exercises using a cloud session: \n It will let you test out the Python notebooks without downloading anything to your local machine.\n\n\n\n\nDocumentation\n\n\nBelow is the documentation for packages used in the course:\n\n\n\n\njupyter\n\n\nnumpy\n\n\nmatplotlib\n\n\nscipy\n\n\npandas\n\n\nbasemap\n\n\ncartopy\n\n\nxarray\n\n\nshapely",
             "title": "Content"
         },
         {
@@ -77,12 +77,12 @@
         },
         {
             "location": "/content/#getting-started",
-            "text": "You can view the course content on  nbviewer  to get a feel for what's in the workshop.  If you want to go through the course material on your own PC, see the  installation instructions  for information on how to set up a Python environment with the appropriate packages.  You can also run Python exercises using a temporary session on  binder :  . It will let you test out the Python notebooks without downloading anything to your local machine.",
+            "text": "You can view the course content on  nbviewer  to get a feel for what's in the workshop.  If you want to go through the course material on your own PC, see the  installation instructions  for information on how to set up a Python environment with the appropriate packages.  You can also run Python exercises using a cloud session:   It will let you test out the Python notebooks without downloading anything to your local machine.",
             "title": "Getting started"
         },
         {
             "location": "/content/#documentation",
-            "text": "Below is the documentation for packages used in the course:   jupyter    numpy    matplotlib    scipy    pandas    basemap    cartopy    xarray \n*  shapely",
+            "text": "Below is the documentation for packages used in the course:   jupyter  numpy  matplotlib  scipy  pandas  basemap  cartopy  xarray  shapely",
             "title": "Documentation"
         },
         {
