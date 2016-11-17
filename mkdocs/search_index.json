@@ -66,6 +66,26 @@
             "title": "Day 3 (2016-11-25 Fri)"
         },
         {
+            "location": "/content/",
+            "text": "Course content\n\n\nGetting started\n\n\n\n\nYou can view the course content on \nnbviewer\n to get a feel for what's in the workshop.\n\n\nIf you want to go through the course material on your own PC, see the \ninstallation instructions\n for information on how to set up a Python environment with the appropriate packages.\n\n\nYou can also run Python exercises using a temporary session on \nbinder\n: \n. It will let you test out the Python notebooks without downloading anything to your local machine.\n\n\n\n\nDocumentation\n\n\nBelow is the documentation for packages used in the course:\n\n \njupyter\n\n\n \nnumpy\n\n\n \nmatplotlib\n\n\n \nscipy\n\n\n \npandas\n\n\n \nbasemap\n\n\n \ncartopy\n\n\n \nxarray\n\n* \nshapely",
+            "title": "Content"
+        },
+        {
+            "location": "/content/#course-content",
+            "text": "",
+            "title": "Course content"
+        },
+        {
+            "location": "/content/#getting-started",
+            "text": "You can view the course content on  nbviewer  to get a feel for what's in the workshop.  If you want to go through the course material on your own PC, see the  installation instructions  for information on how to set up a Python environment with the appropriate packages.  You can also run Python exercises using a temporary session on  binder :  . It will let you test out the Python notebooks without downloading anything to your local machine.",
+            "title": "Getting started"
+        },
+        {
+            "location": "/content/#documentation",
+            "text": "Below is the documentation for packages used in the course:   jupyter    numpy    matplotlib    scipy    pandas    basemap    cartopy    xarray \n*  shapely",
+            "title": "Documentation"
+        },
+        {
             "location": "/installation/",
             "text": "Installation instructions\n\n\nFor this workshop we will be running Python in IT labs at UEA. However, if you want to run Python on your own PC, follow the instructions below to set up your environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.5\n\n\nLocal PC\n\n\nThe best way to set up Python for this course is with \nconda\n.\n\n\n\n\n\n\nInstall \nAnaconda\n. Use Python 3.5 version! \nDetermine if your OS is 32-bit or 64-bit\n\n\n\n\n\n\nOnce Anaconda distribution is installed, open a command line (Terminal.app on OSX or Anaconda prompt on Windows) and run the following instructions.\n\n\n\n\n\n\nUnix / OSX\n\n\ngit clone https://github.com/ueapy/enveast_python_course_materials.git\n\n\n\n\ncd enveast_python_course_materials\n\n\n\n\nconda env create -f environment.yml\n\n\n\n\nThis should create a new conda environment named \"course2016\".\n\n\nIf your default shell is NOT bash, first type \nbash\n. To activate or switch to your new conda environment, you should \nactivate\n it from a command line:\n\n\nsource activate course2016\n\n\n\n\nNote that a prefix should appear in the command line.\n\n\nTo switch and/or deactivate environments:\n\n\nsource deactivate\n\n\n\n\nWindows\n\n\n\n\nOpen Anaconda prompt\n\n\nType\n\n\n\n\nconda install xarray --yes\n\n\n\n\nand hit Enter. Then repeat with\n\n\nconda install -c conda-forge iris matplotlib basemap --yes\n\n\n\n\n\n\nNow you are ready to launch Jupyter Notebook from the prompt line or Anaconda navigator app.\n\n\n\n\nCloud service\n\n\nIt is also possible to run this course using a temporary session on \nbinder\n:",
             "title": "Installation"

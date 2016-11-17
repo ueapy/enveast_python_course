@@ -19,6 +19,14 @@
 
     
     <url>
+     <loc>https://ueapy.github.io/enveast_python_course/content/</loc>
+     <lastmod>2016-11-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>https://ueapy.github.io/enveast_python_course/installation/</loc>
      <lastmod>2016-11-17</lastmod>
      <changefreq>daily</changefreq>
