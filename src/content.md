@@ -1,6 +1,6 @@
 # Course content
-## Getting started
 
+* [Download the course materials (ZIP)](https://github.com/ueapy/enveast_python_course_materials/archive/master.zip)
 * You can view the course content on [nbviewer](http://nbviewer.jupyter.org/github/ueapy/enveast_python_course_materials/blob/master/index.ipynb) to get a feel for what's in the workshop.
 * If you want to go through the course material on your own PC, see the [installation instructions](installation.md) for information on how to set up a Python environment with the appropriate packages.
 * You can also run Python exercises using a cloud session: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/enveast_python_course_materials) It will let you test out the Python notebooks without downloading anything to your local machine.
