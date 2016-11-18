@@ -46,6 +46,7 @@ and hit Enter. Then repeat with
 conda install -c conda-forge iris matplotlib basemap --yes
 ```
 * Now you are ready to launch Jupyter Notebook from the prompt line or Anaconda navigator app.
+* Download and unzip the course content from [GitHub](https://github.com/ueapy/enveast_python_course_materials/archive/master.zip).
 
 
 ## Cloud service
